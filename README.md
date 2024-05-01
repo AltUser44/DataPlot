@@ -1,4 +1,4 @@
-
+![Screenshot 2024-05-01 034417](https://github.com/AltUser44/DataPlot/assets/138399028/edddd966-2fbe-4317-a98e-ef7262d8d3a1)
 
 The program outlines a Dash web application designed to visualize 2014 World GDP data through an interactive choropleth map and a bar chart. 
 It details the process from importing necessary libraries, initializing the Dash app, loading the dataset, to creating and styling the visual components. 
