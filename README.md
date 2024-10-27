@@ -11,5 +11,6 @@ enhancing the application's interactivity. This program serves as a guide for us
 ## View the Live program
 
 You can access the live application here on your local browser:http://127.0.0.1:8050/)
+*Run local host in your IDE of choice
 
 
